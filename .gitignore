@@ -1,0 +1,16 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+
+## Allure (will be generated during exercise)
+allure-results/
+allure-report/
+
+## IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.vs/
