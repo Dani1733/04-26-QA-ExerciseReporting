@@ -46,6 +46,7 @@ namespace RickAndMortyTests.Tests;
 public class CharacterTests : BaseTest
 {
     [Test]
+    [AllureDescription("This description is for test purpose only //dx")]
     public async Task GetAllCharacters_ReturnsSuccessfully()
     {
         // Arrange
